@@ -11,7 +11,8 @@ namespace G2
             int idade;
             resposta = "";
 
-
+            Console.WriteLine("");//Espaço
+            
             Console.WriteLine("-------------");
             Console.WriteLine("|QUIZ DETRAN|");
             Console.WriteLine("-------------");
