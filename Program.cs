@@ -36,6 +36,7 @@ namespace G2
                     Console.WriteLine("B) Coordenar os órgãos do Sistema Nacional de Trânsito.");//Correta--
                     Console.WriteLine("C) Vistoriar, registrar, licenciar e emplacar veículos.");//Incorreta
                     Console.WriteLine("D) Aprovar a sinalização de trânsito.");//Incorreta
+                    Console.WriteLine("");// Espaço
                     resposta = Console.ReadLine();
 
                     switch(resposta)
