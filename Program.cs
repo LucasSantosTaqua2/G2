@@ -29,7 +29,9 @@ namespace G2
                 case >17:
 
                     //Pergunta 1--------------------------------------------------------------------------
+                    Console.WriteLine("---------------------------------------------------------");
                     Console.WriteLine("1)Qual dessas alternativas é uma competência do DETRAN ? ");
+                    Console.WriteLine("---------------------------------------------------------");
                     Console.WriteLine("A) Organizar estatísticas de trânsito em todo o país.");//Incorreta
                     Console.WriteLine("B) Coordenar os órgãos do Sistema Nacional de Trânsito.");//Correta--
                     Console.WriteLine("C) Vistoriar, registrar, licenciar e emplacar veículos.");//Incorreta
