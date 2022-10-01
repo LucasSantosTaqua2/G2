@@ -14,12 +14,12 @@ namespace G2
             Console.WriteLine("");//Espaço
             
             Console.WriteLine("-------------");
-            Console.WriteLine("|QUIZ DETRAN|");
+            Console.WriteLine("|QUIZ TRANS|");
             Console.WriteLine("-------------");
 
             Console.WriteLine("");//Espaço
 
-            Console.Write("Informe sua idade: ");
+            Console.Write("Informe ano: ");
             idade = Convert.ToInt16(Console.ReadLine());
 
             Console.WriteLine("");//Espaço
@@ -48,7 +48,7 @@ namespace G2
 
                         case "b":
                             pontuacao = pontuacao + 2;
-                            Console.WriteLine("Alternativa Correta !");//Correta
+                            Console.WriteLine("Alternativa CARETA !");//Correta
                         break;  
 
                         case "c":
